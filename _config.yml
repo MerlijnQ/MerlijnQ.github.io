@@ -47,8 +47,8 @@ content:
       - layout: Right
         title: Mind Wandering and Auditory Stimuli
         caption: 2025
-        link_text: View PDF
-        #link: /assets/pdfs/MW_Auditory_stimuly.pdf
+        link_text: View Paper
+        link: /assets/pdfs/MW_Auditory_stimuly.pdf
         description: |
           Mind wandering (MW) decreases performance in various attention tasks. We investigate how a task-relevant (cue) and a task-irrelevant (distraction) auditory stimulus affect MW in a
           sustained attention response task (SART). Using the ACT-R architecture, we build a simple MW model in which we simulate three conditions, consisting of a condition without an auditory
@@ -59,8 +59,8 @@ content:
       - layout: Right
         title: Blockchain in certificate systems
         caption: 2024
-        link_text: View PDF
-        #link: /assets/Blockchain_paper_review.pdf
+        link_text: View Review
+        link: /assets/Blockchain_paper_review.pdf
         description: |
           During my time at SUTD, I wrote a review on the paper Ethereum-Blockchain-Based Technology of Decentralized Smart Contract Certificate System (Xie et al. 2020).
           Digital certificates are vulnerable to tampering, cyberattacks, and voiding. Blockchain and smart contracts offer a transparent, immutable solution. 
@@ -72,8 +72,8 @@ content:
       - layout: Right
         title: OOP-style ML DataLoader
         caption: 2024
-        link_text: View PDF
-        #link: /assets/OOP_dataLoader.pdf
+        link_text: View Description
+        link: /assets/OOP_dataLoader.pdf
         description: |
           Together with Jerno Beuker, I developed a Data Loader in Python for machine learning applications following the OOP guidelines. This consisted of a data manager,
           eager loading system, lazy loading system, batch loader and data preprocessing techniques. Whilst the project is not made publicly available at the moment,
