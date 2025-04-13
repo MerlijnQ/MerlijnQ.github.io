@@ -34,21 +34,21 @@ content:
   - title: Projects
     layout: list
     content:
-     - layout: right
+      - layout: right
         title: OOD in BCI
         sub_title: Bachelor thesis project
         description: |
          Together with my supervisor Ivo de Jong, MSc, I am researching out-of-distribution (OOD) Detection within the motor-imagery brain-computer interface Paradigm.
-         Where an image classifier being able to distinguish a cat from a dog can also distinguish using uncertainty techniques that it is presented an image of a chicken
-         on which it wasn't trained, this proves to be a bit more complicated from brain signals. Can we distinguish someone wiggling their feed from raising their arm when
+         An image classifier can distinguish a cat from a dog and can also distinguish using uncertainty techniques that it is presented with an image of a chicken
+         on which it wasn't trained; this proves to be a bit more complicated from brain signals. Can we distinguish someone wiggling their feed from raising their arm when
          our deep learning model has not encountered a brain signal portraying raising the arm before?
 
       - layout: Right
-        title: Mind-Wandering and Auditory Stimuli
+        title: Mind Wandering and Auditory Stimuli
         link_text: View PDF
         #link: /assets/pdfs/project-placeholder.pdf
         description: |
-          Mind-Wandering (MW) decreases performance in various attention tasks. We investigate how a task-relevant (cue) and a task-irrelevant (distraction) auditory stimulus affect MW in a
+          Mind wandering (MW) decreases performance in various attention tasks. We investigate how a task-relevant (cue) and a task-irrelevant (distraction) auditory stimulus affect MW in a
           sustained attention response task (SART). Using the ACT-R architecture, we build a simple MW model in which we simulate three conditions, consisting of a condition without an auditory
           stimulus and the different stimuli previously stated. Although MW remained near 50% across conditions, our results reveal that the auditory stimuli affect the timing of MW. Cues 
           significantly reduced MW at moments when a button press was required in response to a visual stimulus. The task-irrelevant condition displayed a similar but less pronounced effect.
