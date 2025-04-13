@@ -135,29 +135,22 @@ content:
           I have successfully completed 20 hours of teaching assistant training with the faculty’s professional development and innovation in education (PIE) and Diversity, Equity, and Inclusion (DEI) teams.  
           Covering 14 hours of didactics and 6 hours of intercultural competencies
 
-  - title: Skills & Languages
-  layout: text
-  content: |
-    <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
-      <div style="flex: 1;">
-        <h3>Skills</h3>
-        <ul>
-          <li>Presenting & Public Speaking</li>
-          <li>Active Listening</li>
-          <li>Teamwork</li>
-          <li>Office 365 & LaTeX</li>
-          <li>Python, Haskell & Dart</li>
-        </ul>
-      </div>
-      <div style="flex: 1;">
-        <h3>Languages</h3>
-        <ul>
-          <li>Dutch: Native speaker</li>
-          <li>English: C1 level</li>
-          <li>German: B2 level</li>
-        </ul>
-      </div>
-    </div>
+  
+  - title: Skills
+    layout: text
+    content: |
+      - Presenting & Public Speaking  
+      - Active Listening  
+      - Teamwork  
+      - Office 365 & LaTeX  
+      - Python
+
+  - title: Languages
+    layout: text
+    content: |
+      - **Dutch**: Native speaker  
+      - **English**: C1 level  
+      - **German**: B2 level
 
 # Footer
 footer_show_references: true
