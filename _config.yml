@@ -38,10 +38,10 @@ content:
         title: OOD in BCI
         sub_title: Bachelor thesis project
         description: |
-         Together with my supervisor Ivo de Jong, MSc, I am researching out-of-distribution (OOD) Detection within the motor-imagery brain-computer interface Paradigm.
-         An image classifier can distinguish a cat from a dog and can also distinguish using uncertainty techniques that it is presented with an image of a chicken
-         on which it wasn't trained; this proves to be a bit more complicated from brain signals. Can we distinguish someone wiggling their feed from raising their arm when
-         our deep learning model has not encountered a brain signal portraying raising the arm before?
+          Together with my supervisor Ivo de Jong, MSc, I am researching out-of-distribution (OOD) Detection within the motor-imagery brain-computer interface Paradigm.
+          An image classifier can distinguish a cat from a dog and can also distinguish using uncertainty techniques that it is presented with an image of a chicken
+          on which it wasn't trained; this proves to be a bit more complicated from brain signals. Can we distinguish someone wiggling their feed from raising their arm when
+          our deep learning model has not encountered a brain signal portraying raising the arm before?
 
       - layout: Right
         title: Mind Wandering and Auditory Stimuli
@@ -54,7 +54,7 @@ content:
           significantly reduced MW at moments when a button press was required in response to a visual stimulus. The task-irrelevant condition displayed a similar but less pronounced effect.
           Whilst the paper linked is written by me, this was a group project together with Alexander Müller, Felix Michalak and Nienke Posthumus.
 
-       - layout: Right
+      - layout: Right
         title: Blockchain in certificate systems
         link_text: View PDF
         #link: /assets/pdfs/project-placeholder.pdf
@@ -135,7 +135,6 @@ content:
           I have successfully completed 20 hours of teaching assistant training with the faculty’s professional development and innovation in education (PIE) and Diversity, Equity, and Inclusion (DEI) teams.  
           Covering 14 hours of didactics and 6 hours of intercultural competencies
 
-  
   - title: Skills
     layout: text
     content: |
@@ -161,17 +160,16 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
+  - "lib/"
+  - "scripts/"
+  - "docker-compose.yml"
