@@ -15,7 +15,7 @@ darkmode: false
 
 # Social links
 github_username: MerlijnQ
-linkedin_username: merlijn-mulder
+linkedin_username: merlijn-mulder-a275b5236
 
 # About Section
 about_profile_image: /images/profile.jpeg
@@ -37,6 +37,7 @@ content:
       - layout: right
         title: OOD in BCI
         sub_title: Bachelor thesis project
+        caption: 2025
         description: |
           Together with my supervisor Ivo de Jong, MSc, I am researching out-of-distribution (OOD) Detection within the motor-imagery brain-computer interface Paradigm.
           An image classifier can distinguish a cat from a dog and can also distinguish using uncertainty techniques that it is presented with an image of a chicken
@@ -45,6 +46,7 @@ content:
 
       - layout: Right
         title: Mind Wandering and Auditory Stimuli
+        caption: 2025
         link_text: View PDF
         #link: /assets/pdfs/project-placeholder.pdf
         description: |
@@ -56,6 +58,7 @@ content:
 
       - layout: Right
         title: Blockchain in certificate systems
+        caption: 2024
         link_text: View PDF
         #link: /assets/pdfs/project-placeholder.pdf
         description: |
@@ -68,6 +71,7 @@ content:
 
       - layout: Right
         title: OOP-style ML DataLoader
+        caption: 2024
         link_text: View PDF
         #link: /assets/pdfs/project-placeholder.pdf
         description: |
@@ -111,7 +115,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: right
         title: Singapore University of Technology and Design
         sub_title: Minor
         caption: 2024
@@ -120,14 +124,14 @@ content:
           I learned a lot about implementing compilers using a functional programming language like Haskell, Blockchain development,
           User interface design and Extended Reality technologies and development.
           
-      - layout: top-right
+      - layout: right
         title: Rijksuniversiteit Groningen
         sub_title: BSc Artificial Intelligence
         caption: 2022 – present
         description: |
           Currently pursuing a Bachelor's degree in Artificial Intelligence. I plan to graduate in July 2025
 
-      - layout: top-right
+      - layout: right
         title: Rijksuniversiteit Groningen
         sub_title: Teaching Assistant Training
         caption: September 2023
