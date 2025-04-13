@@ -48,7 +48,7 @@ content:
         title: Mind Wandering and Auditory Stimuli
         caption: 2025
         link_text: View PDF
-        #link: /assets/pdfs/project-placeholder.pdf
+        #link: /assets/pdfs/MW_Auditory_stimuly.pdf
         description: |
           Mind wandering (MW) decreases performance in various attention tasks. We investigate how a task-relevant (cue) and a task-irrelevant (distraction) auditory stimulus affect MW in a
           sustained attention response task (SART). Using the ACT-R architecture, we build a simple MW model in which we simulate three conditions, consisting of a condition without an auditory
@@ -60,7 +60,7 @@ content:
         title: Blockchain in certificate systems
         caption: 2024
         link_text: View PDF
-        #link: /assets/pdfs/project-placeholder.pdf
+        #link: /assets/Blockchain_paper_review.pdf
         description: |
           During my time at SUTD, I wrote a review on the paper Ethereum-Blockchain-Based Technology of Decentralized Smart Contract Certificate System (Xie et al. 2020).
           Digital certificates are vulnerable to tampering, cyberattacks, and voiding. Blockchain and smart contracts offer a transparent, immutable solution. 
@@ -73,7 +73,7 @@ content:
         title: OOP-style ML DataLoader
         caption: 2024
         link_text: View PDF
-        #link: /assets/pdfs/project-placeholder.pdf
+        #link: /assets/OOP_dataLoader.pdf
         description: |
           Together with Jerno Beuker, I developed a Data Loader in Python for machine learning applications following the OOP guidelines. This consisted of a data manager,
           eager loading system, lazy loading system, batch loader and data preprocessing techniques. Whilst the project is not made publicly available at the moment,
@@ -97,7 +97,7 @@ content:
       - layout: Left
         title: MediaMarkt Sontplein
         sub_title: Sales & Solutions Employee
-        caption: September 2022 – present
+        caption: September 2022 – July 2024
         description: |
           As a part-time sales and solutions employee, I advise customers on the tech products and services offered within the store's computer department
           and help them find the best-fitting solution for their problems. 
@@ -109,7 +109,7 @@ content:
         description: |
           Currently, I am an advisory member for the sports committee and the symposium committee within the study association. 
           Previously, as an active member of the study association, I have contributed to organizing the [2024 symposium](https://www.linkedin.com/posts/merlijn-mulder-a275b5236_1-month-ago-on-the-24th-of-april-2024-study-activity-7200062947245649920-6XGi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrSPn8BOEDwMcp8qt4GjyhoB4g4mta1q6A)  as chairman of the symposium committee, 
-          Organizing sports activities as the chairman of the sports committee and organizing the introduction activities 2023
+          Organizing sports activities as the chairman of the [sports committee](https://www.linkedin.com/posts/merlijn-mulder-a275b5236_sports-keeping-the-body-moving-and-the-blood-activity-7213201569733902336-EGzH?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrSPn8BOEDwMcp8qt4GjyhoB4g4mta1q6A) and organizing the introduction activities 2023
           as a general member of the introduction committee.
 
   - title: Education
