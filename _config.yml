@@ -8,129 +8,156 @@ version: 2
 name: Merlijn Mulder
 title: Undergraduate AI student @ RUG
 email: m.q.mulder@student.rug.nl
-phone: "+31 6 42254906"
+#phone: "+31 6 42254906"
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 github_username: MerlijnQ
-linkedin_username: Merlijn Mulder
+linkedin_username: merlijn-mulder
 
 # About Section
-about_profile_image: /images/landscape-trees.jpg
+about_profile_image: /images/profile.jpeg
 about_content: |
-  A persistent, enthusiastic, and ambitious student with an interest in technology and innovation who enjoys working on beta-related group projects. 
-  I have a good communicative and results-oriented view, and enjoy helping others learn.
+  Hey there, welcome to my website! The place where you can find out about projects I have worked on. However, let me first introduce myself:
+  
+  A persistent, enthusiastic, and ambitious student interested in technology and innovation who enjoys working on beta-related group projects. 
+  I have a good communicative and results-oriented view, which I have used in multi-cultural environments. I did not only demonstrate this at the University of Groningen (RUG)
+  but also during an [exchange semester](https://www.linkedin.com/posts/merlijn-mulder-a275b5236_exchange-haskell-wireframes-activity-7288237000871047169-mtWi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrSPn8BOEDwMcp8qt4GjyhoB4g4mta1q6A) at the Singapore University of Technology and Design!
 
-  I’m currently pursuing a Bachelor's in Artificial Intelligence at the University of Groningen, where I am also involved as a teaching assistant and mentor. 
+  I’m currently writing my thesis in OOD for BCI as my final project in the Bachelor of Artificial Intelligence (AI) at the RUG. 
+  In the future, I plan to pursue a master's in AI within the specializations of AI engineering and hybrid intelligence as the RUG.
   My background includes both academic and industry experience across education, sales, and fundraising, and I thrive in team-oriented environments.
 
 content:
   - title: Projects
     layout: list
     content:
-      - layout: left
-        border: weak
-        title: Placeholder Project
+     - layout: right
+        title: OOD in BCI
+        sub_title: Bachelor thesis project
+        description: |
+         Together with my supervisor Ivo de Jong, MSc, I am researching out-of-distribution (OOD) Detection within the motor-imagery brain-computer interface Paradigm.
+         Where an image classifier being able to distinguish a cat from a dog can also distinguish using uncertainty techniques that it is presented an image of a chicken
+         on which it wasn't trained, this proves to be a bit more complicated from brain signals. Can we distinguish someone wiggling their feed from raising their arm when
+         our deep learning model has not encountered a brain signal portraying raising the arm before?
+
+      - layout: Right
+        title: Mind-Wandering and Auditory Stimuli
         link_text: View PDF
         #link: /assets/pdfs/project-placeholder.pdf
-        additional_links:
-          - title: GitHub repository
-            icon: fab fa-github
-            url: https://github.com/MerlijnQ
-        quote: >
-          Add your projects here with links to PDFs, GitHub, or live demos.
         description: |
-          You can upload PDFs to an `assets/pdfs/` folder and link them here.
-  
+          Mind-Wandering (MW) decreases performance in various attention tasks. We investigate how a task-relevant (cue) and a task-irrelevant (distraction) auditory stimulus affect MW in a
+          sustained attention response task (SART). Using the ACT-R architecture, we build a simple MW model in which we simulate three conditions, consisting of a condition without an auditory
+          stimulus and the different stimuli previously stated. Although MW remained near 50% across conditions, our results reveal that the auditory stimuli affect the timing of MW. Cues 
+          significantly reduced MW at moments when a button press was required in response to a visual stimulus. The task-irrelevant condition displayed a similar but less pronounced effect.
+          Whilst the paper linked is written by me, this was a group project together with Alexander Müller, Felix Michalak and Nienke Posthumus.
+
+       - layout: Right
+        title: Blockchain in certificate systems
+        link_text: View PDF
+        #link: /assets/pdfs/project-placeholder.pdf
+        description: |
+          During my time at SUTD, I wrote a review on the paper Ethereum-Blockchain-Based Technology of Decentralized Smart Contract Certificate System (Xie et al. 2020).
+          Digital certificates are vulnerable to tampering, cyberattacks, and voiding. Blockchain and smart contracts offer a transparent, immutable solution. 
+          This paper reviews Open Certificates, a proposal using smart contracts in a 3-layer authority system to manage certificate roles.
+          While effective in addressing these issues and enabling validation,
+          the system has vulnerabilities, such as the election of system managers and the lack of downloadable PDFs for use with less modern institutions. 
+          In this review, I propose integrating two other systems to overcome these limitations.
+
+      - layout: Right
+        title: OOP-style ML DataLoader
+        link_text: View PDF
+        #link: /assets/pdfs/project-placeholder.pdf
+        description: |
+          Together with Jerno Beuker, I developed a Data Loader in Python for machine learning applications following the OOP guidelines. This consisted of a data manager,
+          eager loading system, lazy loading system, batch loader and data preprocessing techniques. Whilst the project is not made publicly available at the moment,
+          an overview is attached.
+
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Rijksuniversiteit Groningen
         sub_title: Teaching Assistant & Mentor
         caption: September 2023 – present
         quote: >
           Assisting students academically and socially within the AI program.
         description: |
-          - Mentored 8 first-year students through their university transition.
-          - Led both group and individual sessions over one semester.
-          - Teaching assistant for: Introduction to AI, Basic Scientific Skills, Cognitive Psychology, and Introduction to the Brain.
+          As a mentor, I helped a group of 8 first-year students transfer from high school to university. 
+          This includes group and individual sessions one semester long. 
+          Furthermore, I have been active as a teaching assistant for the courses Introduction to Artificial Intelligence,  
+          Basic Scientific Skills, Cognitive Psychology, and Introduction to the Brain.
 
-      - layout: right
+      - layout: Left
         title: MediaMarkt Sontplein
         sub_title: Sales & Solutions Employee
         caption: September 2022 – present
         description: |
-          Advised customers on tech products in the computer department, helping them find optimal solutions tailored to their needs.
+          As a part-time sales and solutions employee, I advise customers on the tech products and services offered within the store's computer department
+          and help them find the best-fitting solution for their problems. 
 
-      - layout: right
-        title: TriplePro Direct Marketing
-        sub_title: Fundraiser
-        caption: July 2022
-        description: |
-          Approached pedestrians near supermarkets to raise monthly donations for Doctors Without Borders.
-
-      - layout: right
-        title: Montessori Lyceum Groningen
-        sub_title: Tutoring Buddy
-        caption: September 2021 – November 2021
-        description: |
-          Tutored a 4th-year VWO student in chemistry and physics.
-
-      - layout: right
+      - layout: Left
         title: SV Cover (AI Study Association)
-        sub_title: Active Member
+        sub_title: Advisory Member
         caption: May 2023 – present
         description: |
-          - Chair of the 2024 Symposium Committee  
-          - Chair of the Sports Committee  
-          - Member of the Introduction Committee 2023
+          Currently, I am an advisory member for the sports committee and the symposium committee within the study association. 
+          Previously, as an active member of the study association, I have contributed to organizing the [2024 symposium](https://www.linkedin.com/posts/merlijn-mulder-a275b5236_1-month-ago-on-the-24th-of-april-2024-study-activity-7200062947245649920-6XGi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrSPn8BOEDwMcp8qt4GjyhoB4g4mta1q6A)  as chairman of the symposium committee, 
+          Organizing sports activities as the chairman of the sports committee and organizing the introduction activities 2023
+          as a general member of the introduction committee.
 
   - title: Education
     layout: list
     content:
       - layout: top-right
+        title: Singapore University of Technology and Design
+        sub_title: Minor
+        caption: 2024
+        description: |
+          I spent a semester abroad at the Singapore University of Technology and Design. Apart from the cultural experience,
+          I learned a lot about implementing compilers using a functional programming language like Haskell, Blockchain development,
+          User interface design and Extended Reality technologies and development.
+          
+      - layout: top-right
         title: Rijksuniversiteit Groningen
         sub_title: BSc Artificial Intelligence
         caption: 2022 – present
         description: |
-          Currently pursuing a Bachelor's degree in Artificial Intelligence.
+          Currently pursuing a Bachelor's degree in Artificial Intelligence. I plan to graduate in July 2025
 
       - layout: top-right
         title: Rijksuniversiteit Groningen
         sub_title: Teaching Assistant Training
         caption: September 2023
         description: |
-          20 hours of training via the PIE and DEI teams, including:
-          - 14 hours of didactics
-          - 6 hours of intercultural competencies
+          I have successfully completed 20 hours of teaching assistant training with the faculty’s professional development and innovation in education (PIE) and Diversity, Equity, and Inclusion (DEI) teams.  
+          Covering 14 hours of didactics and 6 hours of intercultural competencies
 
-      - layout: top-right
-        title: Montessori Lyceum Groningen
-        sub_title: VWO (NT Profile, with CS and Technasium)
-        caption: 2016 – 2022
-        description: |
-          Final projects included:
-          - App development for a client
-          - Designing digital measurement tools for orthopedic footwear companies
-
-  - title: Skills
-    layout: text
-    content: |
-      - Presenting & Public Speaking  
-      - Active Listening  
-      - Teamwork  
-      - Office 365 & LaTeX  
-      - Python
-
-  - title: Languages
-    layout: text
-    content: |
-      - **Dutch**: Native speaker  
-      - **English**: C1 level  
-      - **German**: B2 level
+  - title: Skills & Languages
+  layout: text
+  content: |
+    <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+      <div style="flex: 1;">
+        <h3>Skills</h3>
+        <ul>
+          <li>Presenting & Public Speaking</li>
+          <li>Active Listening</li>
+          <li>Teamwork</li>
+          <li>Office 365 & LaTeX</li>
+          <li>Python, Haskell & Dart</li>
+        </ul>
+      </div>
+      <div style="flex: 1;">
+        <h3>Languages</h3>
+        <ul>
+          <li>Dutch: Native speaker</li>
+          <li>English: C1 level</li>
+          <li>German: B2 level</li>
+        </ul>
+      </div>
+    </div>
 
 # Footer
 footer_show_references: true
