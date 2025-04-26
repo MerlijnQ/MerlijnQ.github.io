@@ -23,10 +23,10 @@ about_content: |
   Hey there, welcome to my website! The place where you can find out about projects I have worked on. However, let me first introduce myself:
   
   A persistent, enthusiastic, and ambitious student interested in technology and innovation who enjoys working on beta-related group projects. 
-  I have a good communicative and results-oriented view, which I have used in multi-cultural environments. I did not only demonstrate this at the University of Groningen (RUG)
+  I have a good communicative and results-oriented view, which I have used in multi-cultural environments. I not only demonstrated this at the University of Groningen (RUG)
   but also during an [exchange semester](https://www.linkedin.com/posts/merlijn-mulder-a275b5236_exchange-haskell-wireframes-activity-7288237000871047169-mtWi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrSPn8BOEDwMcp8qt4GjyhoB4g4mta1q6A) at the Singapore University of Technology and Design!
 
-  I’m currently writing my thesis in OOD for BCI as my final project in the Bachelor of Artificial Intelligence (AI) at the RUG. 
+  Currently, I'm writing my thesis in OOD for BCI as my final project in the Bachelor of Artificial Intelligence (AI) at the RUG. 
   In the future, I plan to pursue a master's in AI within the specializations of AI engineering and hybrid intelligence as the RUG.
   My background includes both academic and industry experience across education, sales, and fundraising, and I thrive in team-oriented environments.
 
@@ -40,7 +40,7 @@ content:
         caption: 2025
         description: |
           Together with my supervisor Ivo de Jong, MSc, I am researching out-of-distribution (OOD) Detection within the motor-imagery brain-computer interface Paradigm.
-          An image classifier can distinguish a cat from a dog and can also distinguish using uncertainty techniques that it is presented with an image of a chicken
+          An image classifier can distinguish a cat from a dog and can also distinguish, using uncertainty techniques that it is presented with an image of a chicken
           on which it wasn't trained; this proves to be a bit more complicated from brain signals. Can we distinguish someone wiggling their feed from raising their arm when
           our deep learning model has not encountered a brain signal portraying raising the arm before?
 
@@ -78,6 +78,16 @@ content:
           Together with Jerno Beuker, I developed a Data Loader in Python for machine learning applications following the OOP guidelines. This consisted of a data manager,
           eager loading system, lazy loading system, batch loader and data preprocessing techniques. Whilst the project is not made publicly available at the moment,
           an overview is attached.
+
+      - layout: Right
+        title: BurgerMeister
+        sub_title: App development in Dart & Flutter
+        caption: 2022
+        description: |
+          BurgerMeister is where my journey with big coding-related projects really took off. Based on the app "Untappd", I developed a Flutter and Dart-based application for a client
+          desiring such a system for recording where he found the best burgers as part of my final computing science high school project. This was later awarded a 10. Whereas I was responsible for the coding,
+          two team members supported me for visuals, documentation and research. Within the final product, the client could record their burger activities, including categories, ratings,
+          location, etc. This was filtered and stored in a Firebase database system. Furthermore, the product supported communication between users and allowed them to receive badges when a landmark was reached.
 
   - title: Experience
     layout: list
