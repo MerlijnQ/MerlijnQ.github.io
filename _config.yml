@@ -94,14 +94,15 @@ content:
     content:
       - layout: left
         title: Rijksuniversiteit Groningen
-        sub_title: Teaching Assistant & Mentor
-        caption: September 2023 – May 2025
+        sub_title: Head Teaching Assitant, Teaching Assistant & Mentor
+        caption: September 2023 – now
         quote: >
           Assisting students academically and socially within the AI program.
         description: |
-          As a mentor, I helped a group of 8 first-year students transfer from high school to university. 
+          As a mentor, I hel first-year students transfer from high school to university. 
           This includes group and individual sessions one semester long. 
-          Furthermore, I have been active as a teaching assistant for the courses Introduction to Artificial Intelligence, Basic Scientific Skills, Cognitive Psychology, and Introduction to the Brain.
+          Currently I am active as Head TA for the courses Introduction to Artificial Intelligence and Autonomous systems. Apart from facilitating tutorials I support the professors in the development of the courses.
+          Furthermore, I have been active as a teaching assistant for the courses Basic Scientific Skills, Cognitive Psychology, and Introduction to the Brain.
 
       - layout: Left
         title: MediaMarkt Sontplein
@@ -124,6 +125,14 @@ content:
   - title: Education
     layout: list
     content:
+
+    - layout: right
+        title: Rijksuniversiteit Groningen
+        sub_title: MSc Artificial Intelligence
+        caption: 2022 – 2025
+        description: |
+          I am currently persuing a master's degree in AI, specializing in Machine Learning and AI Engineering.
+          
       - layout: right
         title: Singapore University of Technology and Design
         sub_title: Minor
@@ -132,13 +141,13 @@ content:
           I spent a semester abroad at the Singapore University of Technology and Design. Apart from the cultural experience,
           I learned a lot about implementing compilers using a functional programming language like Haskell, Blockchain development,
           User interface design and Extended Reality technologies and development.
-          
+
       - layout: right
         title: Rijksuniversiteit Groningen
         sub_title: BSc Artificial Intelligence
-        caption: 2022 – present
+        caption: 2022 – 2025
         description: |
-          Currently pursuing a Bachelor's degree in Artificial Intelligence. I plan to graduate in July 2025
+          I succesfully completed a Bachelor's degree in Artificial Intelligence.
 
       - layout: right
         title: Rijksuniversiteit Groningen
