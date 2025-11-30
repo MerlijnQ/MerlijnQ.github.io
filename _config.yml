@@ -6,9 +6,8 @@ version: 2
 
 # Personal info
 name: Merlijn Mulder
-title: Undergraduate AI student @ RUG
+title: Graduate AI student @ RUG
 email: m.q.mulder@student.rug.nl
-#phone: "+31 6 42254906"
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -26,9 +25,8 @@ about_content: |
   I have a good communicative and results-oriented view, which I have used in multi-cultural environments. I not only demonstrated this at the University of Groningen (RUG)
   but also during an [exchange semester](https://www.linkedin.com/posts/merlijn-mulder-a275b5236_exchange-haskell-wireframes-activity-7288237000871047169-mtWi?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrSPn8BOEDwMcp8qt4GjyhoB4g4mta1q6A) at the Singapore University of Technology and Design!
 
-  Currently, I'm writing my thesis in OOD for BCI as my final project in the Bachelor of Artificial Intelligence (AI) at the RUG. 
-  In the future, I plan to pursue a master's in AI within the specializations of AI engineering and hybrid intelligence as the RUG.
-  My background includes both academic and industry experience across education, sales, and fundraising, and I thrive in team-oriented environments.
+  Currently, I'm pursuing a master's in AI, specialised in AI engineering, Machine Learning and hybrid intelligence.
+  My background includes both academic and industry experience across education, sales, and fundraising whilst thriving in team-oriented environments.
 
 content:
   - title: Projects
@@ -38,13 +36,15 @@ content:
         title: OOD in BCI
         sub_title: Bachelor thesis project
         caption: 2025
+        link_text: Article
+        link: https://fse.studenttheses.ub.rug.nl/35683/1/bAI2025MulderMQ.pdf
         description: |
           Together with my supervisor Ivo de Jong, MSc, I am researching out-of-distribution (OOD) Detection within the motor-imagery brain-computer interface Paradigm.
           An image classifier can distinguish a cat from a dog and can also distinguish, using uncertainty techniques that it is presented with an image of a chicken
-          on which it wasn't trained; this proves to be a bit more complicated from brain signals. Can we distinguish someone wiggling their feed from raising their arm when
+          on which it wasn't trained; this proves to be a bit more complicated from brain signals. Can we distinguish someone wiggling their feet from raising their arm when
           our deep learning model has not encountered a brain signal portraying raising the arm before?
 
-      - layout: Right
+      - layout: right
         title: Mind Wandering and Auditory Stimuli
         caption: 2025
         link_text: View Paper
@@ -56,7 +56,7 @@ content:
           significantly reduced MW at moments when a button press was required in response to a visual stimulus. The task-irrelevant condition displayed a similar but less pronounced effect.
           Whilst the paper linked is written by me, this was a group project together with Alexander Müller, Felix Michalak and Nienke Posthumus.
 
-      - layout: Right
+      - layout: right
         title: Blockchain in certificate systems
         caption: 2024
         link_text: View Review
@@ -69,7 +69,7 @@ content:
           the system has vulnerabilities, such as the election of system managers and the lack of downloadable PDFs for use with less modern institutions. 
           In this review, I propose integrating two other systems to overcome these limitations.
 
-      - layout: Right
+      - layout: right
         title: OOP-style ML DataLoader
         caption: 2024
         link_text: View Description
@@ -79,7 +79,7 @@ content:
           eager loading system, lazy loading system, batch loader and data preprocessing techniques. Whilst the project is not made publicly available at the moment,
           an overview is attached.
 
-      - layout: Right
+      - layout: right
         title: BurgerMeister
         sub_title: App development in Dart & Flutter
         caption: 2022
@@ -99,12 +99,12 @@ content:
         quote: 
           Assisting students academically and socially within the AI program.
         description: |
-          As a mentor, I hel first-year students transfer from high school to university. 
+          As a mentor, I help first-year students transfer from high school to university. 
           This includes group and individual sessions one semester long. 
           Currently I am active as Head TA for the courses Introduction to Artificial Intelligence and Autonomous systems. Apart from facilitating tutorials I support the professors in the development of the courses.
           Furthermore, I have been active as a teaching assistant for the courses Basic Scientific Skills, Cognitive Psychology, and Introduction to the Brain.
 
-      - layout: Left
+      - layout: left
         title: MediaMarkt Sontplein
         sub_title: Sales & Solutions Employee
         caption: September 2022 – July 2024
@@ -112,7 +112,7 @@ content:
           As a part-time sales and solutions employee, I advise customers on the tech products and services offered within the store's computer department
           and help them find the best-fitting solution for their problems. 
 
-      - layout: Left
+      - layout: left
         title: SV Cover (AI Study Association)
         sub_title: Advisory Member
         caption: May 2023 – present
@@ -126,36 +126,36 @@ content:
     layout: list
     content:
 
-    - layout: right
-        title: Rijksuniversiteit Groningen
-        sub_title: MSc Artificial Intelligence
-        caption: 2025 – now
-        description: |
-          I am currently persuing a master's degree in AI, specializing in Machine Learning and AI Engineering.
-          
       - layout: right
-        title: Singapore University of Technology and Design
-        sub_title: Minor
-        caption: 2024
-        description: |
-          I spent a semester abroad at the Singapore University of Technology and Design. Apart from the cultural experience,
-          I learned a lot about implementing compilers using a functional programming language like Haskell, Blockchain development,
-          User interface design and Extended Reality technologies and development.
-
-      - layout: right
-        title: Rijksuniversiteit Groningen
-        sub_title: BSc Artificial Intelligence
-        caption: 2022 – 2025
-        description: |
-          I succesfully completed a Bachelor's degree in Artificial Intelligence.
-
-      - layout: right
-        title: Rijksuniversiteit Groningen
-        sub_title: Teaching Assistant Training
-        caption: September 2023
-        description: |
-          I have successfully completed 20 hours of teaching assistant training with the faculty’s professional development and innovation in education (PIE) and Diversity, Equity, and Inclusion (DEI) teams.  
-          Covering 14 hours of didactics and 6 hours of intercultural competencies
+          title: Rijksuniversiteit Groningen
+          sub_title: MSc Artificial Intelligence
+          caption: 2025 – now
+          description: |
+            I am currently pursuing a master's degree in AI, specializing in Machine Learning and AI Engineering.
+            
+        - layout: right
+          title: Singapore University of Technology and Design
+          sub_title: Minor
+          caption: 2024
+          description: |
+            I spent a semester abroad at the Singapore University of Technology and Design. Apart from the cultural experience,
+            I learned a lot about implementing compilers using a functional programming language like Haskell, Blockchain development,
+            User interface design and Extended Reality technologies and development.
+  
+        - layout: right
+          title: Rijksuniversiteit Groningen
+          sub_title: BSc Artificial Intelligence
+          caption: 2022 – 2025
+          description: |
+            I successfully completed a Bachelor's degree in Artificial Intelligence.
+  
+        - layout: right
+          title: Rijksuniversiteit Groningen
+          sub_title: Teaching Assistant Training
+          caption: September 2023
+          description: |
+            I have successfully completed 20 hours of teaching assistant training with the faculty’s professional development and innovation in education (PIE) and Diversity, Equity, and Inclusion (DEI) teams.  
+            Covering 14 hours of didactics and 6 hours of intercultural competencies
 
   - title: Skills
     layout: text
