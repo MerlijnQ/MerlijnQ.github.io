@@ -32,7 +32,7 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: OOD in BCI
         sub_title: Bachelor thesis project
         caption: 2025
@@ -44,7 +44,7 @@ content:
           on which it wasn't trained; this proves to be a bit more complicated from brain signals. Can we distinguish someone wiggling their feet from raising their arm when
           our deep learning model has not encountered a brain signal portraying raising the arm before?
 
-      - layout: right
+      - layout: left
         title: Mind Wandering and Auditory Stimuli
         caption: 2025
         link_text: View Paper
@@ -56,7 +56,7 @@ content:
           significantly reduced MW at moments when a button press was required in response to a visual stimulus. The task-irrelevant condition displayed a similar but less pronounced effect.
           Whilst the paper linked is written by me, this was a group project together with Alexander Müller, Felix Michalak and Nienke Posthumus.
 
-      - layout: right
+      - layout: left
         title: Blockchain in certificate systems
         caption: 2024
         link_text: View Review
@@ -69,7 +69,7 @@ content:
           the system has vulnerabilities, such as the election of system managers and the lack of downloadable PDFs for use with less modern institutions. 
           In this review, I propose integrating two other systems to overcome these limitations.
 
-      - layout: right
+      - layout: left
         title: OOP-style ML DataLoader
         caption: 2024
         link_text: View Description
@@ -79,7 +79,7 @@ content:
           eager loading system, lazy loading system, batch loader and data preprocessing techniques. Whilst the project is not made publicly available at the moment,
           an overview is attached.
 
-      - layout: right
+      - layout: left
         title: BurgerMeister
         sub_title: App development in Dart & Flutter
         caption: 2022
@@ -125,14 +125,14 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Rijksuniversiteit Groningen
         sub_title: MSc Artificial Intelligence
         caption: 2025 – now
         description: |
           I am currently pursuing a master's degree in AI, specializing in Machine Learning and AI Engineering.
             
-      - layout: right
+      - layout: left
         title: Singapore University of Technology and Design
         sub_title: Minor
         caption: 2024
@@ -141,14 +141,14 @@ content:
           I learned a lot about implementing compilers using a functional programming language like Haskell, Blockchain development,
           User interface design and Extended Reality technologies and development.
 
-      - layout: right
+      - layout: left
         title: Rijksuniversiteit Groningen
         sub_title: BSc Artificial Intelligence
         caption: 2022 – 2025
         description: |
           I successfully completed a Bachelor's degree in Artificial Intelligence.
 
-      - layout: right
+      - layout: left
         title: Rijksuniversiteit Groningen
         sub_title: Teaching Assistant Training
         caption: September 2023
