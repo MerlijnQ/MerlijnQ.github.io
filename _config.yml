@@ -132,29 +132,29 @@ content:
         description: |
           I am currently pursuing a master's degree in AI, specializing in Machine Learning and AI Engineering.
             
-        - layout: right
-          title: Singapore University of Technology and Design
-          sub_title: Minor
-          caption: 2024
-          description: |
-            I spent a semester abroad at the Singapore University of Technology and Design. Apart from the cultural experience,
-            I learned a lot about implementing compilers using a functional programming language like Haskell, Blockchain development,
-            User interface design and Extended Reality technologies and development.
-  
-        - layout: right
-          title: Rijksuniversiteit Groningen
-          sub_title: BSc Artificial Intelligence
-          caption: 2022 – 2025
-          description: |
-            I successfully completed a Bachelor's degree in Artificial Intelligence.
-  
-        - layout: right
-          title: Rijksuniversiteit Groningen
-          sub_title: Teaching Assistant Training
-          caption: September 2023
-          description: |
-            I have successfully completed 20 hours of teaching assistant training with the faculty’s professional development and innovation in education (PIE) and Diversity, Equity, and Inclusion (DEI) teams.  
-            Covering 14 hours of didactics and 6 hours of intercultural competencies
+      - layout: right
+        title: Singapore University of Technology and Design
+        sub_title: Minor
+        caption: 2024
+        description: |
+          I spent a semester abroad at the Singapore University of Technology and Design. Apart from the cultural experience,
+          I learned a lot about implementing compilers using a functional programming language like Haskell, Blockchain development,
+          User interface design and Extended Reality technologies and development.
+
+      - layout: right
+        title: Rijksuniversiteit Groningen
+        sub_title: BSc Artificial Intelligence
+        caption: 2022 – 2025
+        description: |
+          I successfully completed a Bachelor's degree in Artificial Intelligence.
+
+      - layout: right
+        title: Rijksuniversiteit Groningen
+        sub_title: Teaching Assistant Training
+        caption: September 2023
+        description: |
+          I have successfully completed 20 hours of teaching assistant training with the faculty’s professional development and innovation in education (PIE) and Diversity, Equity, and Inclusion (DEI) teams.  
+          Covering 14 hours of didactics and 6 hours of intercultural competencies
 
   - title: Skills
     layout: text
