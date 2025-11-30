@@ -125,7 +125,6 @@ content:
   - title: Education
     layout: list
     content:
-
       - layout: right
           title: Rijksuniversiteit Groningen
           sub_title: MSc Artificial Intelligence
