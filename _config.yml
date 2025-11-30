@@ -126,11 +126,11 @@ content:
     layout: list
     content:
       - layout: right
-          title: Rijksuniversiteit Groningen
-          sub_title: MSc Artificial Intelligence
-          caption: 2025 – now
-          description: |
-            I am currently pursuing a master's degree in AI, specializing in Machine Learning and AI Engineering.
+        title: Rijksuniversiteit Groningen
+        sub_title: MSc Artificial Intelligence
+        caption: 2025 – now
+        description: |
+          I am currently pursuing a master's degree in AI, specializing in Machine Learning and AI Engineering.
             
         - layout: right
           title: Singapore University of Technology and Design
