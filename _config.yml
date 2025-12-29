@@ -173,7 +173,7 @@ content:
       - **German**: B2 level
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 sass:
