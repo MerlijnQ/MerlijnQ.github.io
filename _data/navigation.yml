@@ -1,0 +1,20 @@
+header:
+  - titles:
+      en: Home
+    url: /
+
+  - titles:
+      en: Projects
+    url: /projects/
+
+  - titles:
+      en: CV
+    url: /cv/
+
+  - titles:
+      en: Photography
+    url: /photography/
+
+  - titles:
+      en: "<i class='fab fa-linkedin'></i>"
+    url: https://www.linkedin.com/in/merlijn-mulder-a275b5236/
