@@ -1,7 +1,11 @@
 ---
-layout: article
+layout: articles
 title: Photography
 permalink: /photography/
+articles:
+  data_source: site.categories.photos
+  show_readmore: true
+  show_excerpt: true
 mode: immersive
 header:
   theme: dark
@@ -13,5 +17,3 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/photos/IMG_9535.JPG
 ---
-
-<h1>Coming soon<h1>
